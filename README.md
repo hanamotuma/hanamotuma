@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:312E81,100:06B6D4&text=HANNAH%20MOTUMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20%26%20Data%20Analytics&descAlignY=60&descSize=15" width="100%" alt="Hannah Motuma — Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:312E81,100:06B6D4&text=HANNAH%20MOTUMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" alt="Hannah Motuma banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Engineering+thoughtful+digital+solutions.;Building+scalable+and+meaningful+applications.;Code+with+purpose.+Design+with+intent." alt="Software engineering introduction"/>
