@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:312E81,100:0891B2&text=HANNAH%20MOTUMA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlignY=60&descSize=17" width="100%" alt="Hannah Motuma — Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:312E81,100:0891B2&text=HANNAH%20MOTUMA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlignY=60&descSize=17" width="100%" alt="Hannah Motuma — Software Engineer - Full-stack Developer"/>
 
 <a href="https://github.com/hanamotuma">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
